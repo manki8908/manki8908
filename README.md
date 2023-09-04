@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manki8908
+# 👋 Hi, I’m MANKI KIM
 - 👀 I’m interested in DL, ML, Sequence Data modeling, NWP post-process
 - 🌱 I’m currently learning Transformer, Time-series analysis, computer vision
 - 💞️ I’m looking to collaborate on ...
