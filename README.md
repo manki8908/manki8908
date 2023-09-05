@@ -1,6 +1,6 @@
 # 👋 Hi, I’m MANKI KIM
 - 👀 I’m interested in DL, ML, Sequence Data modeling, NWP post-process
-- 🌱 I’m currently learning Transformer, Time-series analysis, computer vision
+- 🌱 I’m currently learning NLP, CV
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
